@@ -1,0 +1,4 @@
+Add the BUas logo here as:  buas-black.png
+
+Use the black version only, on the warm-white page ground (never recoloured).
+Until the file exists, the footer simply shows no logo.
